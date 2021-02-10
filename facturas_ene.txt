@@ -1,0 +1,6235 @@
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        
+        Fecha inicial de elaboración:         01/01/2021                          Fecha final de elaboración:         31/01/2021
+
+                                                                                        Moneda de expresión:          Pesos
+                                                                                        Tipo de cambio:       1.000000
+
+        Documento:    Factura - Nota de     CFDI0063381                               F. de elab. : 04/01/2021        Moneda:     Pesos
+        Cliente:  PP105                                                               F. de venc. : 04/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE GILMER PECH CASTILLO                                         Vendedor:        41
+
+        Su pedido:                                                                    Comisión:                   0.00
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+
+          600.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    15 SACOS
+                              6393-20
+                                                                                                Total:                        5,214.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            1
+
+
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063384                               F. de elab. : 04/01/2021        Moneda:     Pesos
+        Cliente:  SP104                                                               F. de venc. : 04/01/2021        Tipo de cambio:             1.000000
+        Nombre:     PEDRO ALFONSO CHIM SANSORES                                       Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          720.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    9.150000      $
+
+          Observaciones:    18 SACOS L-6164-20
+                              6164-20
+                                                                                                Total:                        6,588.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            2
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063385                               F. de elab. : 04/01/2021        Moneda:     Pesos
+        Cliente:  AP115                                                               F. de venc. : 04/01/2021        Tipo de cambio:             1.000000
+        Nombre:     ATILANO ARANDA                                                    Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          160.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    4 SACOS
+                              6587-20
+                                                                                                Total:                        1,433.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            3
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063407                               F. de elab. : 05/01/2021        Moneda:     Pesos
+        Cliente:  PP123                                                               F. de venc. : 05/01/2021        Tipo de cambio:             1.000000
+        Nombre:     SHARON PEREZ EK                                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          160.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    4 SACOS
+                              6587-20
+                                                                                                Total:                        1,390.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            4
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063408                               F. de elab. : 05/01/2021        Moneda:     Pesos
+        Cliente:  AP154                                                               F. de venc. : 05/01/2021        Tipo de cambio:             1.000000
+        Nombre:     ALIMENTOS BALANCEADOS  LA BENDICION DE DIOS                       Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          1,000.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    25 SACOS
+                              6587-20
+                                                                                                Total:                        8,690.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            5
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063419                               F. de elab. : 05/01/2021        Moneda:     Pesos
+        Cliente:  LP076                                                               F. de venc. : 05/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARTIN LOPEZ                                                      Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          320.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+
+          Observaciones:    8 SACOS
+                              5935-20
+                                                                                                Total:                        2,784.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            6
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063439                               F. de elab. : 06/01/2021        Moneda:     Pesos
+        Cliente:  CC144                                                               F. de venc. : 06/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANCISCO CABALLERO                                               Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          960.0000  MYN1      206CAB10                      0.00      0.00      0.00        0.00                                    0.00    9.600000      $
+
+          Observaciones:    24 SACOS
+                              6547-20
+                                                                                                Total:                        9,216.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            7
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063440                               F. de elab. : 06/01/2021        Moneda:     Pesos
+        Cliente:  EC057                                                               F. de venc. : 06/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EMANUEL VALENCIA PISTE                                            Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            40.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.880000      $
+
+          Observaciones:    1 SACO
+                              6541-20
+                                                                                                Total:                          355.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            8
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063442                               F. de elab. : 06/01/2021        Moneda:     Pesos
+        Cliente:  SP062                                                               F. de venc. : 06/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL SOLIS                                                      Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+
+          Observaciones:    3 SACOS
+                              6541-20
+                                                                                                Total:                        1,044.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            9
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063444                               F. de elab. : 06/01/2021        Moneda:     Pesos
+        Cliente:  EC057                                                               F. de venc. : 06/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EMANUEL VALENCIA PISTE                                            Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.880000      $
+
+          Observaciones:    SACOS
+                              6541-20
+                                                                                                Total:                          710.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            10
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063448                               F. de elab. : 06/01/2021        Moneda:     Pesos
+        Cliente:  DC044                                                               F. de venc. : 06/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JUAN GABRIEL DZUL BALAM                                           Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          520.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    13 SACOS
+                              6484-20
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.440000      $
+          Observaciones:    2 SACOS
+                              6541-20
+
+          600.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    15 SACOS
+                              6587-20
+                                                                                                Total:                      10,408.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            11
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063450                               F. de elab. : 06/01/2021        Moneda:     Pesos
+        Cliente:  JC071                                                               F. de venc. : 06/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE CORONADO                                                     Vendedor:        51
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.490000      $
+
+          Observaciones:    2 SACOS
+                              8235
+                                                                                                Total:                          679.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            12
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063451                               F. de elab. : 06/01/2021        Moneda:     Pesos
+        Cliente:  DC038                                                               F. de venc. : 06/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EVERTH DZIB CHAN                                                  Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          560.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    14 SACOS L-6261-20
+                              6261-20
+          240.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    6 SACOS L-6308-20
+                              6308-20
+
+          1,000.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    25 SACOS L-6261-20
+                              6261-20
+                                                                                                Total:                      15,642.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            13
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063452                               F. de elab. : 06/01/2021        Moneda:     Pesos
+        Cliente:  CC188                                                               F. de venc. : 06/01/2021        Tipo de cambio:             1.000000
+        Nombre:     BARBARA CORTEZ DE CRUZ                                            Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          200.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    5 SACOS L-6164-20
+                              6164-20
+          1,000.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    25 SACOS
+                              6261-20
+
+                                                                                                Total:                      10,428.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            14
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063456                               F. de elab. : 07/01/2021        Moneda:     Pesos
+        Cliente:  MC083                                                               F. de venc. : 07/01/2021        Tipo de cambio:             1.000000
+        Nombre:     REINALDO ERIBERTO MARTIN CAUICH                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          600.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.440000      $
+
+          Observaciones:    15 SACOS
+                              6669-21
+                                                                                                Total:                        5,064.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            15
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063467                               F. de elab. : 07/01/2021        Moneda:     Pesos
+        Cliente:  CC018                                                               F. de venc. : 07/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANKLIN CARDEÑA SERRANO                                          Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:    REMISION R-38646
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          6,000.00  MYN1      206PROH                       0.00      0.00      0.00        0.00                                    0.00    8.210000      $
+
+          Observaciones:    150 SACOS
+                              6348-20
+                                                                                                Total:                      49,260.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            16
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063489                               F. de elab. : 08/01/2021        Moneda:     Pesos
+        Cliente:  PP105                                                               F. de venc. : 08/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE GILMER PECH CASTILLO                                         Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          400.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    10 SACOS L-6587-20
+                              6587-20
+                                                                                                Total:                        3,476.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            17
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063492                               F. de elab. : 08/01/2021        Moneda:     Pesos
+        Cliente:  NC031                                                               F. de venc. : 08/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO NOH                                                         Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+
+          Observaciones:    3 SACOS
+                              6323-20
+                                                                                                Total:                        1,044.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            18
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063503                               F. de elab. : 11/01/2021        Moneda:     Pesos
+        Cliente:  CC018                                                               F. de venc. : 11/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANKLIN CARDEÑA SERRANO                                          Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:    REMISION R-38772
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          5,960.00  MYN1      206PROH                       0.00      0.00      0.00        0.00                                    0.00    8.210000      $
+
+          Observaciones:    149 SACOS
+                              6471-20
+                                                                                                Total:                      48,931.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            19
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063515                               F. de elab. : 11/01/2021        Moneda:     Pesos
+        Cliente:  CC144                                                               F. de venc. : 13/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANCISCO CABALLERO                                               Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          2,560.00  MYN1      206CAB10                      0.00      0.00      0.00        0.00                                    0.00    9.600000      $
+
+          Observaciones:    64 SACOS L-6738-21
+                              6738-21
+                                                                                                Total:                      24,576.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            20
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063516                               F. de elab. : 11/01/2021        Moneda:     Pesos
+        Cliente:  EC057                                                               F. de venc. : 11/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EMANUEL VALENCIA PISTE                                            Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            40.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.880000      $
+
+          Observaciones:    1 SACO
+                              6669-21
+                                                                                                Total:                          355.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            21
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063517                               F. de elab. : 11/01/2021        Moneda:     Pesos
+        Cliente:  EC057                                                               F. de venc. : 11/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EMANUEL VALENCIA PISTE                                            Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.880000      $
+
+          Observaciones:    SACOS
+                              6669-21
+                                                                                                Total:                          710.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            22
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063518                               F. de elab. : 11/01/2021        Moneda:     Pesos
+        Cliente:  SP104                                                               F. de venc. : 11/01/2021        Tipo de cambio:             1.000000
+        Nombre:     PEDRO ALFONSO CHIM SANSORES                                       Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.880000      $
+
+          Observaciones:    2 SACOS
+                              6148-20
+          640.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.880000      $
+          Observaciones:    16 SACOS L-6214-20
+                              6214-20
+
+                                                                                                Total:                        6,393.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            23
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063534                               F. de elab. : 12/01/2021        Moneda:     Pesos
+        Cliente:  MC083                                                               F. de venc. : 12/01/2021        Tipo de cambio:             1.000000
+        Nombre:     REINALDO ERIBERTO MARTIN CAUICH                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          600.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.440000      $
+
+          Observaciones:    15 SACOS
+                              6773-21
+                                                                                                Total:                        5,064.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            24
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063548                               F. de elab. : 13/01/2021        Moneda:     Pesos
+        Cliente:  SP072                                                               F. de venc. : 14/01/2021        Tipo de cambio:             1.000000
+        Nombre:     NAYELI SANTAMARIA                                                 Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          720.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    18 SACOS
+                              6677-21
+                                                                                                Total:                        6,256.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            25
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063563                               F. de elab. : 13/01/2021        Moneda:     Pesos
+        Cliente:  VC032                                                               F. de venc. : 13/01/2021        Tipo de cambio:             1.000000
+        Nombre:     SILVIA VALENCIA                                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          1,840.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    46 SACOS L-5963-20
+                              5953-20
+          2,160.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+          Observaciones:    54 SACOS L-6031-20
+                              6031-20
+
+                                                                                                Total:                      35,840.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            26
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063595                               F. de elab. : 14/01/2021        Moneda:     Pesos
+        Cliente:  NC031                                                               F. de venc. : 14/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO NOH                                                         Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+
+          Observaciones:    3 SACOS
+                              6541-20
+                                                                                                Total:                        1,044.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            27
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063598                               F. de elab. : 14/01/2021        Moneda:     Pesos
+        Cliente:  LP076                                                               F. de venc. : 14/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARTIN LOPEZ                                                      Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          320.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    8 SACOS
+                              6261-20
+                                                                                                Total:                        2,867.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            28
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063604                               F. de elab. : 14/01/2021        Moneda:     Pesos
+        Cliente:  PP105                                                               F. de venc. : 14/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE GILMER PECH CASTILLO                                         Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          240.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    6 SACOS L-6587-20
+                              6587-20
+                                                                                                Total:                        2,085.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            29
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063634                               F. de elab. : 18/01/2021        Moneda:     Pesos
+        Cliente:  PP123                                                               F. de venc. : 18/01/2021        Tipo de cambio:             1.000000
+        Nombre:     SHARON PEREZ EK                                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          280.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    7 SACOS L-6840-21
+                              6840-21
+                                                                                                Total:                        2,433.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            30
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063635                               F. de elab. : 18/01/2021        Moneda:     Pesos
+        Cliente:  EC057                                                               F. de venc. : 18/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EMANUEL VALENCIA PISTE                                            Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    9.000000      $
+
+          Observaciones:    SACOS
+                              6669-21
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    9.000000      $
+          Observaciones:    SACOS
+                              6669-21
+
+                                                                                                Total:                        1,440.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            31
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063636                               F. de elab. : 18/01/2021        Moneda:     Pesos
+        Cliente:  EC057                                                               F. de venc. : 18/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EMANUEL VALENCIA PISTE                                            Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    9.000000      $
+
+          Observaciones:    2 SACOS
+                              6773-21
+                                                                                                Total:                          720.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            32
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063691                               F. de elab. : 19/01/2021        Moneda:     Pesos
+        Cliente:  DC038                                                               F. de venc. : 19/01/2021        Tipo de cambio:             1.000000
+        Nombre:     EVERTH DZIB CHAN                                                  Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          400.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    10 SACOS
+                              6587-20
+          680.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    17 SACOS L-6484-20
+                              6484-20
+
+                                                                                                Total:                        9,385.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            33
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063694                               F. de elab. : 20/01/2021        Moneda:     Pesos
+        Cliente:  SP072                                                               F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     NAYELI SANTAMARIA                                                 Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          680.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    17 SACOS
+                              6869-21
+                                                                                                Total:                        5,909.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            34
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063695                               F. de elab. : 20/01/2021        Moneda:     Pesos
+        Cliente:  MC031                                                               F. de venc. : 20/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL MEDRANO                                                    Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.430000      $
+
+          Observaciones:    2 SACOS
+                              4658-20
+          160.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.430000      $
+          Observaciones:    4 SACOS
+                              4800-20
+
+          240.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.430000      $
+          Observaciones:    6 SACOS L-4937-20
+                              4937-20
+          560.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    7.840000      $
+          Observaciones:    14 SACOS
+
+                              5172-20
+          560.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.430000      $
+          Observaciones:    14 SACOS L-5058-20
+                              5058-20
+
+                                                                                                Total:                      12,117.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            35
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063702                               F. de elab. : 20/01/2021        Moneda:     Pesos
+        Cliente:  AP154                                                               F. de venc. : 20/01/2021        Tipo de cambio:             1.000000
+        Nombre:     ALIMENTOS BALANCEADOS  LA BENDICION DE DIOS                       Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          800.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    20 SACOS L-6677-21
+                              6677-21
+                                                                                                Total:                        6,952.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            36
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063703                               F. de elab. : 20/01/2021        Moneda:     Pesos
+        Cliente:  JC012                                                               F. de venc. : 20/01/2021        Tipo de cambio:             1.000000
+        Nombre:     LEONARDO JIMENEZ POLANCO                                          Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          320.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    8 SACOS
+                              6869-21
+                                                                                                Total:                        2,867.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            37
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063717                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  SP072                                                               F. de venc. : 22/01/2021        Tipo de cambio:             1.000000
+        Nombre:     NAYELI SANTAMARIA                                                 Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          400.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    10 SACOS L-6869-21
+                              6869-21
+                                                                                                Total:                        3,476.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            38
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063721                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  CC218                                                               F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANCISCO CHAN BAEZA                                              Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              6323-20
+                                                                                                Total:                          716.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            39
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063725                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  CC223                                                               F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE COUOH                                                        Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              6323-20
+                                                                                                Total:                        1,075.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            40
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063726                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  BC078                                                               F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL BAEZA MOISES                                               Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          160.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    9.220000      $
+
+          Observaciones:    SACOS
+                              6308-20
+                                                                                                Total:                        1,475.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            41
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063730                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  JC053                                                               F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JUAN CARLOS KUUC                                                  Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          160.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+
+          Observaciones:    SACOS
+                              5301-20
+                                                                                                Total:                        1,392.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            42
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063732                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  CC223                                                               F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE COUOH                                                        Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              5301-20
+                                                                                                Total:                          716.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            43
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063734                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  BC078                                                               F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL BAEZA MOISES                                               Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              6323-20
+                                                                                                Total:                        1,075.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            44
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063740                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  SP052                                                               F. de venc. : 23/01/2021        Tipo de cambio:             1.000000
+        Nombre:     DEPOSITO TIZIMIN                                                  Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          160.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              1079-20
+                                                                                                Total:                        1,433.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            45
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063742                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  SP052                                                               F. de venc. : 23/01/2021        Tipo de cambio:             1.000000
+        Nombre:     DEPOSITO TIZIMIN                                                  Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            40.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACO
+                              5301-20
+                                                                                                Total:                          358.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            46
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063743                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  SP052                                                               F. de venc. : 23/01/2021        Tipo de cambio:             1.000000
+        Nombre:     DEPOSITO TIZIMIN                                                  Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.590000      $
+
+          Observaciones:    SACOS
+                              5993-20
+                                                                                                Total:                          687.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            47
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063744                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  JC053                                                               F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JUAN CARLOS KUUC                                                  Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            40.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+
+          Observaciones:    SACO
+                              6461-20
+                                                                                                Total:                          348.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            48
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063745                               F. de elab. : 21/01/2021        Moneda:     Pesos
+        Cliente:  JC071                                                               F. de venc. : 21/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE CORONADO                                                     Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            40.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACO
+                              6461-20
+                                                                                                Total:                          358.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            49
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063759                               F. de elab. : 22/01/2021        Moneda:     Pesos
+        Cliente:  PP105                                                               F. de venc. : 22/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE GILMER PECH CASTILLO                                         Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          160.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    4 SACOS
+                              6677-21
+                                                                                                Total:                        1,390.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            50
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063765                               F. de elab. : 22/01/2021        Moneda:     Pesos
+        Cliente:  SP052                                                               F. de venc. : 24/01/2021        Tipo de cambio:             1.000000
+        Nombre:     DEPOSITO TIZIMIN                                                  Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            40.0000 MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    9.220000      $
+
+          Observaciones:    SACO
+                              6393-20
+                                                                                                Total:                          368.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            51
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063773                               F. de elab. : 22/01/2021        Moneda:     Dólares
+        Cliente:  CC018                                                               F. de venc. : 22/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANKLIN CARDEÑA SERRANO                                          Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:    REMISION R-38397
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          6,000.00  MYN1      206PROH                       0.00      0.00      0.00        0.00                                    0.00    8.210000      $
+
+          Observaciones:    150 SACOS
+                              5766-20
+                                                                                                Total:                      49,260.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            52
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063777                               F. de elab. : 22/01/2021        Moneda:     Pesos
+        Cliente:  BC078                                                               F. de venc. : 22/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL BAEZA MOISES                                               Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            40.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACO
+                              6323-20
+                                                                                                Total:                          358.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            53
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063779                               F. de elab. : 22/01/2021        Moneda:     Pesos
+        Cliente:  CC218                                                               F. de venc. : 22/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANCISCO CHAN BAEZA                                              Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              6323-20
+                                                                                                Total:                          716.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            54
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063790                               F. de elab. : 22/01/2021        Moneda:     Pesos
+        Cliente:  CC223                                                               F. de venc. : 22/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE COUOH                                                        Vendedor:        55
+        Su pedido:    2                                                               Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              6323-20
+                                                                                                Total:                          716.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            55
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063798                               F. de elab. : 23/01/2021        Moneda:     Pesos
+        Cliente:  MC083                                                               F. de venc. : 23/01/2021        Tipo de cambio:             1.000000
+        Nombre:     REINALDO ERIBERTO MARTIN CAUICH                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          600.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.550000      $
+
+          Observaciones:    15 SACOS
+                              6983-21
+                                                                                                Total:                        5,130.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            56
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063805                               F. de elab. : 23/01/2021        Moneda:     Pesos
+        Cliente:  PP066                                                               F. de venc. : 23/01/2021        Tipo de cambio:             1.000000
+        Nombre:     BENJAMIN PEREZ                                                    Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          240.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.810000      $
+
+          Observaciones:    6 SACOS
+                              6773-21
+                                                                                                Total:                        2,114.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            57
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063806                               F. de elab. : 23/01/2021        Moneda:     Pesos
+        Cliente:  CC188                                                               F. de venc. : 23/01/2021        Tipo de cambio:             1.000000
+        Nombre:     BARBARA CORTEZ DE CRUZ                                            Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          1,800.00  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    45 SACOS
+                              6393-20
+          960.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    24 SACOS
+                              6484-20
+
+          240.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    6 SACOS L-6587-20
+                              6587-20
+          800.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+          Observaciones:    20 SACOS L-6587-20
+
+                              6587-20
+                                                                                                Total:                      33,022.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            58
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063817                               F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:  JC012                                                               F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     LEONARDO JIMENEZ POLANCO                                          Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          200.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    5 SACOS
+                              6869-21
+                                                                                                Total:                        1,792.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            59
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063821                               F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:  NC031                                                               F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO NOH                                                         Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+
+          Observaciones:    3 SACOS L-5941-20
+                              6541-20
+                                                                                                Total:                        1,044.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            60
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063822                               F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:  DC044                                                               F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JUAN GABRIEL DZUL BALAM                                           Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          400.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.550000      $
+
+          Observaciones:    10 SACOS
+                              6669-21
+                                                                                                Total:                        3,420.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            61
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063823                               F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:  DC044                                                               F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JUAN GABRIEL DZUL BALAM                                           Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          600.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    15 SACOS
+                              6587-20
+                                                                                                Total:                        5,214.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            62
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063834                               F. de elab. : 25/01/2021        Moneda:     Pesos
+        Cliente:  MC031                                                               F. de venc. : 25/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL MEDRANO                                                    Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.760000      $
+
+          Observaciones:    3 SACOS
+                              5424-20
+          160.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.760000      $
+          Observaciones:    4 SACOS
+                              5342-20
+
+          440.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.760000      $
+          Observaciones:    11 SACOS
+                              5424-20
+            40.0000 MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.760000      $
+          Observaciones:    1 SACO
+
+                              5058-20
+          480.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.760000      $
+          Observaciones:    12 SACOS
+                              5198-20
+
+                                                                                                Total:                        9,622.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            63
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063863                               F. de elab. : 27/01/2021        Moneda:     Pesos
+        Cliente:  CC144                                                               F. de venc. : 29/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANCISCO CABALLERO                                               Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          1,840.00  MYN1      206CAB10                      0.00      0.00      0.00        0.00                                    0.00    9.600000      $
+
+          Observaciones:    46 SACOS L-6892-21
+                              6982-21
+                                                                                                Total:                      17,664.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            64
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063869                               F. de elab. : 27/01/2021        Moneda:     Pesos
+        Cliente:  IC034                                                               F. de venc. : 27/01/2021        Tipo de cambio:             1.000000
+        Nombre:     CASILDO ITZA                                                      Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          400.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.440000      $
+
+          Observaciones:    10 SACOS
+                              6541-20
+          400.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.440000      $
+          Observaciones:    10 SACOS
+                              6773-21
+
+          400.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.550000      $
+          Observaciones:    10 SACOS
+                              6773-21
+                                                                                                Total:                      10,172.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            65
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Pedido      CFDI0063898                               F. de elab. : 28/01/2021        Moneda:     Pesos
+        Cliente:  SP072                                                               F. de venc. : 29/01/2021        Tipo de cambio:             1.000000
+        Nombre:     NAYELI SANTAMARIA                                                 Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          400.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    10 SACOS L-7000-21
+                              7000-21
+                                                                                                Total:                        3,476.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            66
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063914                               F. de elab. : 28/01/2021        Moneda:     Pesos
+        Cliente:  SP052                                                               F. de venc. : 30/01/2021        Tipo de cambio:             1.000000
+        Nombre:     DEPOSITO TIZIMIN                                                  Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          160.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              6461-20
+                                                                                                Total:                        1,433.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            67
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063916                               F. de elab. : 28/01/2021        Moneda:     Pesos
+        Cliente:  CC218                                                               F. de venc. : 28/01/2021        Tipo de cambio:             1.000000
+        Nombre:     FRANCISCO CHAN BAEZA                                              Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              5820-20
+                                                                                                Total:                          716.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            68
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063918                               F. de elab. : 28/01/2021        Moneda:     Pesos
+        Cliente:  SP052                                                               F. de venc. : 30/01/2021        Tipo de cambio:             1.000000
+        Nombre:     DEPOSITO TIZIMIN                                                  Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            80.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.970000      $
+
+          Observaciones:    SACOS
+                              4756-20
+                              5301-20
+
+                                                                                                Total:                          717.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            69
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063920                               F. de elab. : 28/01/2021        Moneda:     Pesos
+        Cliente:  MC131                                                               F. de venc. : 28/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO PEREZ MONFORTE                                              Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+            40.0000 MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+
+          Observaciones:    SACO
+                              280-19
+                                                                                                Total:                          348.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            70
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063921                               F. de elab. : 28/01/2021        Moneda:     Pesos
+        Cliente:  BC078                                                               F. de venc. : 28/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL BAEZA MOISES                                               Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          160.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    SACOS
+                              3957-20
+                                                                                                Total:                        1,433.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            71
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063932                               F. de elab. : 29/01/2021        Moneda:     Pesos
+        Cliente:  PP123                                                               F. de venc. : 29/01/2021        Tipo de cambio:             1.000000
+        Nombre:     SHARON PEREZ EK                                                   Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          320.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.690000      $
+
+          Observaciones:    8 SACOS
+                              6869-21
+                                                                                                Total:                        2,780.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            72
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063951                               F. de elab. : 29/01/2021        Moneda:     Pesos
+        Cliente:  RP103                                                               F. de venc. : 29/01/2021        Tipo de cambio:             1.000000
+        Nombre:     ROMMEL SANTIAGO GOMEZ GARMA                                       Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          720.0000  MYN1      206PROP                       0.00      0.00      0.00        0.00                                    0.00    9.720000      $
+
+          Observaciones:    18 SACOS
+                              7106-21
+                                                                                                Total:                        6,998.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            73
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063953                               F. de elab. : 29/01/2021        Moneda:     Pesos
+        Cliente:  AP115                                                               F. de venc. : 29/01/2021        Tipo de cambio:             1.000000
+        Nombre:     ATILANO ARANDA                                                    Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    8.960000      $
+
+          Observaciones:    3 SACOS
+                              7000-21
+                                                                                                Total:                        1,075.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            74
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Directa     CFDI0063962                               F. de elab. : 29/01/2021        Moneda:     Pesos
+        Cliente:  CC223                                                               F. de venc. : 29/01/2021        Tipo de cambio:             1.000000
+        Nombre:     JOSE COUOH                                                        Vendedor:        55
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          160.0000  MYN1      206PELCR15                    0.00      0.00      0.00        0.00                                    0.00    9.220000      $
+
+          Observaciones:    SACOS
+                              6308-20
+                                                                                                Total:                        1,475.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            75
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063975                               F. de elab. : 30/01/2021        Moneda:     Pesos
+        Cliente:  NC031                                                               F. de venc. : 30/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MARIO NOH                                                         Vendedor:         1
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          120.0000  MYN1      206PELCR                      0.00      0.00      0.00        0.00                                    0.00    8.700000      $
+
+          Observaciones:    3 SACOS
+                              6669-21
+                                                                                                Total:                        1,044.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            76
+
+----------------------------------------------------------------------------------
+
+
+
+                                                      M Y N DISTRIBUIDORA, S.A. DE C.V.
+
+                                                            Detallado de facturas
+
+
+
+        Documento:    Factura - Nota de     CFDI0063977                               F. de elab. : 30/01/2021        Moneda:     Pesos
+        Cliente:  MC031                                                               F. de venc. : 30/01/2021        Tipo de cambio:             1.000000
+        Nombre:     MANUEL MEDRANO                                                    Vendedor:        41
+        Su pedido:                                                                    Comisión:                   0.00
+
+        Observaciones:
+          Cantidad  Línea     Producto                  Desc1       Desc2     Desc3   Impuesto                                  Comis.        Precio 
+          360.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.760000      $
+
+          Observaciones:    9 SACOS L-5671-20
+                              5671-20
+            40.0000 MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    7.760000      $
+          Observaciones:    1 SACO L-5424-20
+                              5424-20
+
+          160.0000  MYN1      206AAA                        0.00      0.00      0.00        0.00                                    0.00    8.280000      $
+          Observaciones:    4 SACOS
+                              5901-20
+                                                                                                Total:                        4,428.80
+
+
+        Total de registros impresos:    77
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Usuario:  Alicia Braga                                Fecha y hora:   09/02/2021  12:48                                         Pág.            77
+
+----------------------------------------------------------------------------------
+
